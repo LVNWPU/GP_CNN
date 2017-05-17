@@ -1,0 +1,6 @@
+void printhello(){
+
+printf("helloworld");
+
+
+}
